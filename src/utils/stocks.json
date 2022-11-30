@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "symbol": "100H",
+      "name": "MULTI-UNITS LUXEMBOURG - Lyxor FTSE 100 UCITS ETF - Monthly Hedged to EUR - Acc",
+      "currency": "EUR",
+      "exchange": "Euronext",
+      "mic_code": "XPAR",
+      "country": "France"
+    },
+    {
+      "symbol": "3PYP",
+      "name": "LS 3X PAYPAL",
+      "currency": "EUR",
+      "exchange": "Euronext",
+      "mic_code": "XAMS",
+      "country": "Netherlands"
+    },
+    {
+      "symbol": "3fed",
+      "name": "LS dcf 3X PAYPAL",
+      "currency": "EYO",
+      "exchange": "Euronext",
+      "mic_code": "XAES",
+      "country": "Norway"
+    },
+    {
+      "symbol": "100H",
+      "name": "MULTI-UNITS LUXEMBOURG - Lyxor FTSE 100 UCITS ETF - Monthly Hedged to EUR - Acc",
+      "currency": "EUR",
+      "exchange": "Euronext",
+      "mic_code": "XPAR",
+      "country": "France"
+    },
+    {
+      "symbol": "100H",
+      "name": "MULTI-UNITS LUXEMBOURG - Lyxor FTSE 100 UCITS ETF - Monthly Hedged to EUR - Acc",
+      "currency": "EUR",
+      "exchange": "Euronext",
+      "mic_code": "XPAR",
+      "country": "France"
+    }
+  ]
+}
